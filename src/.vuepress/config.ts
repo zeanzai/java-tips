@@ -7,7 +7,7 @@ export default defineUserConfig({
   // 设置正在使用的语言
   lang: "zh-CN",
   // 设置网站标题
-  title: "CSLN",
+  title: "java-tips",
   theme,
   plugins: [
       searchProPlugin({

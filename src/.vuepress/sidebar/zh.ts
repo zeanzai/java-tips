@@ -210,7 +210,6 @@ export const zhSidebar = sidebar({
       children: "structure",
       collapsible: true,
     },
-    
   ],
 
   "/notes/" : [
@@ -218,6 +217,25 @@ export const zhSidebar = sidebar({
       icon: "activity",
       text: "01-基础",
       prefix: "01-csbase",
+      children: "structure",
+      collapsible: true,
+    },
+    {
+      icon: "branch",
+      text: "02-Java编程语言",
+      prefix: "02-java",
+      children: "structure",
+      collapsible: true,
+    },
+    
+  ],
+
+  // 资料
+  "/materials/" : [
+    {
+      icon: "activity",
+      text: "32个Java面试必考点",
+      prefix: "001-32个Java面试必考点",
       children: "structure",
       collapsible: true,
     },

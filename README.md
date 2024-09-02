@@ -1,14 +1,11 @@
 <div align="center">
  <img width="180px" src="src/.vuepress/public/logo.png">
     <p/>
- <h1>『CSLN（Computer Science Learn Notes）』</h1>
+ <h1>『Java tips ： Java 面试知识点』</h1>
 </div>
 
 
-
-
-
-:rocket: CS（Computer Science）生涯学习/读书笔记，集成Java知识体系！
+:rocket: Java 面试知识点！
 
 :fire: :fire: :fire:  推荐 | 在线阅读：<https://zeanzai.github.io/java-tips/>
 
@@ -16,7 +13,7 @@
 
 * 🚫 待办
 * ⏳ 正在更新
-* ✅ 已办项
+* ✅ 已办项v
 
 ## :bird:目录概览
 
