@@ -5,7 +5,6 @@ export const zhNavbar = navbar([
   { text: "导读", icon: "discover", link: "/intro/" },
   { text: "仓库", icon: "discover", link: "/docs/" },
   { text: "笔记", icon: "discover", link: "/notes/" },
-  { text: "面试资料", icon: "discover", link: "/materials/" },
   // {
   //   text: "指南",
   //   icon: "creative",

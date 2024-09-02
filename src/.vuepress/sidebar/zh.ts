@@ -230,23 +230,4 @@ export const zhSidebar = sidebar({
     
   ],
 
-  // 资料
-  "/materials/" : [
-    {
-      icon: "activity",
-      text: "32个Java面试必考点",
-      prefix: "001-32个Java面试必考点",
-      children: "structure",
-      collapsible: true,
-    },
-    {
-      icon: "branch",
-      text: "02-Java编程语言",
-      prefix: "02-java",
-      children: "structure",
-      collapsible: true,
-    },
-    
-  ],
-
 });
