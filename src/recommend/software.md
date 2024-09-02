@@ -1,7 +1,7 @@
 ---
 
 order: 1
-author: zhiyu1998
+author: zeanzai
 title: 软件推荐
 category:
   - 推荐

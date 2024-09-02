@@ -1,7 +1,7 @@
 ---
 
 order: 12
-author: zhiyu1998
+author: zeanzai
 title: 操作系统
 category:
   - 计算机基础

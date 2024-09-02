@@ -1,7 +1,7 @@
 ---
 
 order: 8
-author: zhiyu1998
+author: zeanzai
 title: 分布式
 category:
   - 分布式

@@ -1,6 +1,6 @@
 ---
 order: 19
-author: zhiyu1998
+author: zeanzai
 title: 2022大厂八股文
 category:
   - 八股文

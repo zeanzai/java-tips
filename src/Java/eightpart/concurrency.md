@@ -1,7 +1,7 @@
 ---
 
 order: 3
-author: zhiyu1998
+author: zeanzai
 title: Java并发
 category:
   - 并发

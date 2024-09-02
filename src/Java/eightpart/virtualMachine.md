@@ -1,7 +1,7 @@
 ---
 
 order: 4
-author: zhiyu1998
+author: zeanzai
 title: Java虚拟机
 category:
   - 虚拟机

@@ -1,7 +1,7 @@
 ---
 
 order: 6
-author: zhiyu1998
+author: zeanzai
 title: MySQL
 category:
   - 数据库

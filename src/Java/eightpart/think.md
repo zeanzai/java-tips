@@ -1,7 +1,7 @@
 ---
 
 order: 17
-author: zhiyu1998
+author: zeanzai
 title: 面试题的一些思考
 category:
   - 八股文

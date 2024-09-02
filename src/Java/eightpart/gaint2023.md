@@ -1,7 +1,7 @@
 ---
 
 order: 20
-author: zhiyu1998
+author: zeanzai
 title: 2023大厂八股文
 category:
   - 八股文

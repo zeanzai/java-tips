@@ -10,7 +10,7 @@
 
 :rocket: CS（Computer Science）生涯学习/读书笔记，集成Java知识体系！
 
-:fire: :fire: :fire:  推荐 | 在线阅读：<https://zhiyu1998.github.io/Computer-Science-Learn-Notes/>
+:fire: :fire: :fire:  推荐 | 在线阅读：<https://zeanzai.github.io/java-tips/>
 
 ## :milky_way:标志说明
 
@@ -77,14 +77,14 @@
 
 ## :chart_with_upwards_trend: 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhiyu1998/Computer-Science-Learn-Notes&type=Date)](https://star-history.com/#zhiyu1998/Computer-Science-Learn-Notes&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zeanzai/java-tips&type=Date)](https://star-history.com/#zeanzai/java-tips&Date)
 
 
 
 ## 🌸鸣谢贡献
 
-感谢以下开发者对 Computer-Science-Learn-Notes 作出的贡献：
+感谢以下开发者对 java-tips 作出的贡献：
 
-<a href="https://github.com/zhiyu1998/Computer-Science-Learn-Notes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zhiyu1998/Computer-Science-Learn-Notes&max=1000" />
+<a href="https://github.com/zeanzai/java-tips/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zeanzai/java-tips&max=1000" />
 </a>

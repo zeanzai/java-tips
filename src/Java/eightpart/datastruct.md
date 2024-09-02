@@ -1,7 +1,7 @@
 ---
 
 order: 14
-author: zhiyu1998
+author: zeanzai
 title: 数据结构
 category:
   - 计算机基础

@@ -1,7 +1,7 @@
 ---
 
 order: 15
-author: zhiyu1998
+author: zeanzai
 title: 智力题
 category:
   - 智力题

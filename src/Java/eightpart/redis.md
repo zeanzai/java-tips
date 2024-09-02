@@ -1,7 +1,7 @@
 ---
 
 order: 7
-author: zhiyu1998
+author: zeanzai
 title: Redis
 category:
   - Redis

@@ -1,7 +1,7 @@
 ---
 
 order: 16
-author: zhiyu1998
+author: zeanzai
 title: 中小厂面试指南
 category:
   - 中小厂
