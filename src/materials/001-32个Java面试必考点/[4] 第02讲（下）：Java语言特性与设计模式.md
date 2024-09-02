@@ -1,3 +1,11 @@
+---
+author: zeanzai
+title: 第02讲（下）：Java语言特性与设计模式
+category:
+  - 计算机基础
+  - 八股文
+---
+
 <h6 style="white-space: normal; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(0, 0, 0); font-size: 18px;">设计模式知识点</span></h6>
 <p style="margin-top: 0pt; margin-bottom: 0pt; white-space: normal; font-size: 11pt; color: rgb(73, 73, 73); text-align: justify; line-height: 1.75em;"><span style="color: rgb(63, 63, 63); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;">前面说了操作系统和网络知识，接下来是设计模式的考察点，一般有两个：</span><br></p>
 <ul style=" white-space: normal;">
