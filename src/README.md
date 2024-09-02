@@ -4,15 +4,20 @@ icon: home
 title: 主页
 heroImage: /logo.png
 heroText: java-tips
-tagline: java 面试要点提示
+tagline: Java程序员面试要点提示
 actions:
   - text: 进入学习 💡
     link: /docs/
     type: primary
 
-  - text: 关于我
+  - text: 网站建设
     link: /about/
+copyright: false
+footer: 使用 <a href="https://github.com/zeanzai/java-tips" target="_blank">Github © 2024 java tips </a> MIT 协议, 版权所有 © 2024-present zeanzai
+---
 
+
+```
 features:
   - title: 计算机基础
     icon: leaf
@@ -53,6 +58,4 @@ features:
     icon: blog
     details: 面试要点提示
     link: /docs
-copyright: false
-footer: 使用 <a href="https://github.com/zeanzai/java-tips" target="_blank">Github © 2024 java tips </a> MIT 协议, 版权所有 © 2024-present zeanzai
----
+```

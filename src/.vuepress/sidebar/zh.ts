@@ -198,7 +198,7 @@ export const zhSidebar = sidebar({
     },
     {
       icon: "launch",
-      text: "06-软件生命周期管理",
+      text: "06-软件质量管理",
       prefix: "06-devops",
       children: "structure",
       collapsible: true,
@@ -212,21 +212,21 @@ export const zhSidebar = sidebar({
     },
   ],
 
-  "/notes/" : [
-    {
-      icon: "activity",
-      text: "01-基础",
-      prefix: "01-csbase",
-      children: "structure",
-      collapsible: true,
-    },
-    {
-      icon: "branch",
-      text: "02-Java编程语言",
-      prefix: "02-java",
-      children: "structure",
-      collapsible: true,
-    },
+  // "/notes/" : [
+  //   {
+  //     icon: "activity",
+  //     text: "01-基础",
+  //     prefix: "01-csbase",
+  //     children: "structure",
+  //     collapsible: true,
+  //   },
+  //   {
+  //     icon: "branch",
+  //     text: "02-Java编程语言",
+  //     prefix: "02-java",
+  //     children: "structure",
+  //     collapsible: true,
+  //   },
     
   ],
 
