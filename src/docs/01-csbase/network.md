@@ -4,7 +4,6 @@ author: zeanzai
 title: 计算机网络
 category:
   - 计算机基础
-  - 八股文
 ---
 
 
