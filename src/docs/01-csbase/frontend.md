@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+order: 1
 author: zeanzai
 title: 前端学习
 category:

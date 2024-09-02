@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+order: 2
 author: zeanzai
 title: 计算机网络
 category:

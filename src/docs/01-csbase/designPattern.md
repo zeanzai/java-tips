@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+order: 5
 author: zeanzai
 title: 设计模式
 category:
