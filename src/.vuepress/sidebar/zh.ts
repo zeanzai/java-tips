@@ -101,5 +101,62 @@ export const zhSidebar = sidebar({
       children: "structure",
       collapsible: true,
     },
+    {
+      text: "docs",
+      icon: "java",
+      collapsible: true,
+      prefix: "docs/",
+      children: [
+        {
+          icon: "activity",
+          text: "01-基础",
+          prefix: "01-csbase",
+          children: "structure",
+          collapsible: true,
+        },
+        {
+          icon: "branch",
+          text: "02-Java编程语言",
+          prefix: "02-java",
+          children: "structure",
+          collapsible: true,
+        },
+        {
+          icon: "profile",
+          text: "03-框架",
+          prefix: "03-framework",
+          children: "structure",
+          collapsible: true,
+        },
+        {
+          icon: "leaf",
+          text: "04-中间件",
+          prefix: "04-middleware",
+          children: "structure",
+          collapsible: true,
+        },
+        {
+          icon: "async",
+          text: "05-分布式",
+          prefix: "05-distribution",
+          children: "structure",
+          collapsible: true,
+        },
+        {
+          icon: "launch",
+          text: "06-软件生命周期管理",
+          prefix: "06-devops",
+          children: "structure",
+          collapsible: true,
+        },
+        {
+          icon: "object",
+          text: "07-工程设计",
+          prefix: "07-systemdesign",
+          children: "structure",
+          collapsible: true,
+        },
+      ]
+    },
   ],
 });

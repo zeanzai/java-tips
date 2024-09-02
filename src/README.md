@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: CSLN
-tagline: CSLN（Computer Science Learn Notes）CS生涯：读书笔记，集成Java知识体系！
+heroText: java-tips
+tagline: java-tips： java面试要点提示
 actions:
   - text: 进入学习 💡
     link: /intro/
@@ -48,6 +48,11 @@ features:
     icon: blog
     details: 推荐一些个人经常使用的插件、网页、开源项目等
     link: /others/rent_house
+
+  - title: 面试要点提示
+    icon: blog
+    details: 面试要点提示
+    link: /docs/01-csbase/network/network
 copyright: false
-footer: 使用 <a href="https://github.com/zeanzai/java-tips" target="_blank">Github © 2023 Computer Science Learn Notes</a> MIT 协议, 版权所有 © 2023-present zeanzai
+footer: 使用 <a href="https://github.com/zeanzai/java-tips" target="_blank">Github © 2024 java tips </a> MIT 协议, 版权所有 © 2024-present zeanzai
 ---
