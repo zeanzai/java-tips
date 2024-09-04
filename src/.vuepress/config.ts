@@ -17,4 +17,5 @@ export default defineUserConfig({
   ],
   // Enable it with pwa
   shouldPrefetch: false,
+  pagePatterns: ['**/*.md', '!**/_*.md','!node_modules'],
 });
